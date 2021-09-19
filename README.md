@@ -1,1 +1,3 @@
 # USApparelExports
+Using [this](https://data.world/makeovermonday/2020w43-apparel-exports-to-us) US exports data from [data.world](https://data.world/). I gathered the difference that covid-19 had on the apparel exports from other countries to the US. looking at the Total amount($USD Millions) for each 2019 and 2020 you can see a significant drop for every country in the amount made from 2019 to 2020. With this graph we can also see the different countries that our apparel comes from and how they compare against eachother. 
+![Here is the graph made from the data](https://user-images.githubusercontent.com/88803320/133933776-d996d5fc-5bdd-4a88-af08-71120f36f904.png)
